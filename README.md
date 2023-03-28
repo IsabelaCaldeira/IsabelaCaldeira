@@ -3,7 +3,7 @@
 </div>
 
 ```javascript
-  class humanBeing:  
+  class humanBeing:
     
     def __IsabelaCaldeira__(self, pronouns, origin, location, code, roles, work_place, spoken_languages, interest, curiosities):
 

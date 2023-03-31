@@ -13,7 +13,7 @@
       self.code = ["Python", "Javascript", "Typescript", "Nodejs", "HTMl", "CSS"]
       self.roles = ["Software Developer", "IT Assistant", "Activist", "Artist"]
       self.work_place = "Jaguar Mining Inc"
-      self.spoken_languages = ["pt-br", "eng","fr"]
+      self.spoken_languages = ["pt-br", "eng","fr", "es"]
       self.interest = ["Programming", "Technology", "Art", "Activism"]
       self.curiosities = "I am in love with tech, education and a good cup of coffee"
       

@@ -20,12 +20,11 @@
    
 
 ```
- 
-  <div align="center">
-  <img height="180em" src=https://github-readme-stats-true.vercel.app/api?username=IsabelaCaldeira&theme=github_dark&hide=issues&show_icons=true/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsabelaCaldeira&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 
-  </div>
+
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 

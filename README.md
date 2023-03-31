@@ -21,16 +21,18 @@
 
 ```
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">  
+
+<div aling='left'>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsabelaCaldeira&theme=react&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 
 
-
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <div id="badges" align="center">
-  <h3>Do you want to know a little bit more about me? </br>
-  Here is the way: </h3> 
+  <h3>A little bit more about me: </h3> 
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

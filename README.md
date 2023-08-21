@@ -5,7 +5,7 @@
 ```javascript
   class humanBeing:  
     
-    def __IsabelaCaldeira__(self, pronouns, origin, location, code, roles, work_place, spoken_languages, interest, curiosities):
+    def __IsabelaCaldeiraCruz__(self, pronouns, origin, location, code, roles, work_place, spoken_languages, interest, curiosities):
 
       self.pronouns = "She" | "Her"
       self.origin = "Brazil"
@@ -25,9 +25,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsabelaCaldeira&theme=react&hide_border=true)](https://git.io/streak-stats)
 </div>
-
-
-
 
 <div id="badges" align="center">
   <h3>Do you want to know a little bit more about me? </br>

@@ -32,7 +32,7 @@
   <a  target="_blank" href="https://www.linkedin.com/in/isabela-caldeira-a98b7922b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a  target="_blank" href="https://www.instagram.com/_belacaldeira/">
+  <a  target="_blank" href="https://www.instagram.com/belacruz.zip/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a target="_blank" href="mailto:isabela.ribeiro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

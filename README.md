@@ -28,7 +28,7 @@
 </div>
 
 <div id="badges" align="center">
-  <h3>Do you want to know a little bit more about me? </br>
+  <h3>Do you want to know a little bit more about me or talk to me? </br>
   Here is the way: </h3> 
   <a  target="_blank" href="https://www.linkedin.com/in/developerisa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

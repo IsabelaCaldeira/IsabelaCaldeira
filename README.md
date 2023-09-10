@@ -5,7 +5,7 @@
 ```javascript
   class humanBeing:  
     
-    def __IsabelaCaldeiraCruz__(self, pronouns, origin, location, code, roles, work_place, spoken_languages, interest, curiosities):
+    def __IsabelaCaldeiraCruz__(self, pronouns, origin, location, code, roles, spoken_languages, interest, curiosities):
 
       self.pronouns = "She" | "Her"
       self.origin = "Brazil"

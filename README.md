@@ -10,7 +10,7 @@
       self.pronouns = "She" | "Her"
       self.origin = "Brazil"
       self.location = "France"
-      self.code = ["Python", "C","Javascript", "Typescript", "Nodejs"]
+      self.code = ["Python","C","Javascript", "Typescript", "Nodejs"]
       self.roles = ["Software Developer", "Scientist", "Activist", "Artist"]
       self.university = "Sorbonne"
       self.study = ["Computer Science", "Physics"]

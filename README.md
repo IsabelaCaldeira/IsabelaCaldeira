@@ -23,10 +23,8 @@
 ```
 
 <div align='center'>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsabelaCaldeira&theme=react&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-blond.vercel.app?user=IsabelaCaldeira&theme=elegant&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
 <div id="badges" align="center">
   <h3>Do you want to know a little bit more about me?</br>
   Here is the way: </h3> 

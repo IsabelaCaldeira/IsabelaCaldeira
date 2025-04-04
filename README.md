@@ -2,24 +2,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F8A255&width=435&lines=Hey%2C+you!!+Bring+your+coffe+and;Let's+talk+%3C+code+%3E+%3D+%7B+" alt="Typing SVG" /></a>
 </div>
 
-```javascript
-  class humanBeing:  
-    
-    def __IsabelaCaldeiraCruz__(self, pronouns, origin, location, code, roles, university, study, spoken_languages, interest, curiosities):
-
-      self.pronouns = "She" | "Her"
+```python
+class Profile:  
+  def __init__(self):
+      self.pronouns = ["She", "Her"]
       self.origin = "Brazil"
       self.location = "France"
-      self.code = ["Python", "C", "Javascript", "Typescript", "Nodejs"]
+      self.code = ["Python", "C", 'SQL', "Javascript", "Typescript", "Node.js"]
       self.roles = ["Software Developer", "Scientist", "Activist", "Artist"]
       self.university = "Sorbonne"
       self.study = ["Computer Science", "Physics"]
-      self.spoken_languages = ["pt-br","eng","fr","es"]
-      self.interest = ["Programming", "Technology", "Art", "Activism"]
-      self.curiosities = "I am in love with tech, education and a good cup of coffee"
-      
-   
+      self.spoken_languages = ["pt-br", "eng", "fr", "es"]
+      self.interests = ["Programming", "Technology", "Art", "Activism"]
+      self.curiosities = "I am in love with tech, education, and a good cup of coffee"
 
+isabelaCaldeira = Profile()
+      
 ```
 
 <div align='center'>
